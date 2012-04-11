@@ -1,12 +1,7 @@
 Hello
 
-Не знаю как подключить к своей странице index.html файл bootstrap.css со репозитория твиттера, удалось тольк подключить с компьютера(с указанной папки)
-Вот полная ссылка на репозиторий:
-https://github.com/twitter/bootstrap/tree/master/docs/assets/css
-подключал тегом линк...
+Подключил bootstrap.css к файлу index.html.
 
-Для корректного отображения страницы скачать файл и изменить тег:
+Для корректного не смотрел отображение в windows кодировки UTF-8, так как пушил с Ubuntu. 
 
-<link rel="stylesheet" type="text/css" href="c:\Users\Мастер\Desktop\bootstrap\css\bootstrap.css">
-
-в файле index.html
+Посмотрел запросы GET, POST. Не сообразил, как их использовать.
